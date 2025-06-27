@@ -8,7 +8,8 @@ In order to add a Hard Drive to an existing Virtual Machine in Hyper-V, you must
 1. Go to settings on the Virtual Machine you wish to add the new Hard Drive to.
 2. Navigate to the IDE Controller settings, select "Hard Drive" and click Add.
 3. Select "New Hard Drive" and follow the prompts to designate the location and size of the new Hard Drive you wish to add. Once that is done click "OK/Apply"
-4. Start your virtual Machine and Navigate to Disk Management, if the prompt does not appear to initialize the disk, right click on the disk and click initialize.
+4. Repeat to add a Second Hard Drive.
+5. Start your virtual Machine and Navigate to Disk Management, if the prompt does not appear to initialize the disk, right click on the disk and click initialize.
 
 
 
